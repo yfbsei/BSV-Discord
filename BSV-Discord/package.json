@@ -1,0 +1,20 @@
+{
+  "name": "BSV-Discord ",
+  "version": "1.0.0",
+  "description": "BSV wallet and send/receive transactions on discord",
+  "main": "token.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@runonbitcoin/nimble": "^1.0.13",
+    "bsv": "2.0.10",
+    "discord.js": "^13.7.0",
+    "mongodb": "^4.6.0",
+    "openspv": "^3.0.29",
+    "sensible-sdk": "^7.4.0",
+    "txforge": "^2.1.0"
+  }
+}
